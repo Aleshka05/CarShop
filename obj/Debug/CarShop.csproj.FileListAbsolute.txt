@@ -1,0 +1,264 @@
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\CarShop.exe.config
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\CarShop.exe
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\CarShop.pdb
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShop.csproj.AssemblyReference.cache
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\RegistrationWindow.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\RegistrationWindow.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\App.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShop_MarkupCompile.cache
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShop.g.resources
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShop.Properties.Resources.resources
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShop.csproj.GenerateResource.cache
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShop.csproj.CoreCompileInputs.cache
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShop.exe
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShop.pdb
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Options.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Identity.Client.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Newtonsoft.Json.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Buffers.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Collections.Immutable.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.ComponentModel.Annotations.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Memory.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Numerics.Vectors.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Options.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.Identity.Client.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Newtonsoft.Json.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Buffers.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Collections.Immutable.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Memory.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Numerics.Vectors.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShop.csproj.Up2Date
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\BCrypt.Net-Next.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\BCrypt.Net-Next.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\MainWindow.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\MainWindow.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShopWindow.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarShopWindow.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\AboutUsPage.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\AboutUsPage.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\MainPage.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\MainPage.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\AddCarPage.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\AddCarPage.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\UsersPage.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\UsersPage.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\PackagesPage.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\PackagesPage.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\UserPage.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\UserPage.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\OrdersPage.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\OrdersPage.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\ChangePasswordWindow.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\ChangePasswordWindow.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\ReviewsPage.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\ReviewsPage.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarDetailsPage.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\CarDetailsPage.g.cs
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Text.Json.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.ValueTuple.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Twilio.dll
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.Text.Json.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\System.ValueTuple.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\bin\Debug\Twilio.xml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\OrderConfirmationWindow.baml
+D:\3 курс\Курсач\Project\CarShop\CarShop\obj\Debug\OrderConfirmationWindow.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\CarShop.csproj.AssemblyReference.cache
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\App.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\CarShop_MarkupCompile.cache
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\CarShop.g.resources
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\CarShop.Properties.Resources.resources
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\CarShop.csproj.GenerateResource.cache
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\CarShop.csproj.CoreCompileInputs.cache
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\CarShop.exe
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\CarShop.pdb
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\CarShop.exe.config
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\CarShop.exe
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\CarShop.pdb
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\BCrypt.Net-Next.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Options.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Identity.Client.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Newtonsoft.Json.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Buffers.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Collections.Immutable.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.ComponentModel.Annotations.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Memory.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Numerics.Vectors.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Text.Json.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.ValueTuple.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Twilio.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\BCrypt.Net-Next.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Options.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.Identity.Client.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Newtonsoft.Json.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Buffers.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Collections.Immutable.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Memory.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Numerics.Vectors.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Text.Json.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\System.ValueTuple.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\Twilio.xml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\CarShop.csproj.Up2Date
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\AboutUsPage.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\AddCarPage.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\CarDetailsPage.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Windows\CarShopWindow.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Windows\ChangePasswordWindow.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\MainPage.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Windows\OrderConfirmationWindow.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\OrdersPage.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Windows\RegistrationWindow.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\ReviewsPage.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\UserPage.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\UsersPage.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\AboutUsPage.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\AddCarPage.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\CarDetailsPage.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Windows\CarShopWindow.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Windows\ChangePasswordWindow.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\MainPage.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Windows\OrderConfirmationWindow.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\OrdersPage.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Windows\RegistrationWindow.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\ReviewsPage.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\UserPage.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\Pages\UsersPage.g.cs
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\MainWindow.baml
+D:\3 курс\Курсовой пример\Project\CarShop\CarShop\obj\Debug\MainWindow.g.cs
